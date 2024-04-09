@@ -10,8 +10,9 @@ e após conhecer as a situação atual, pude determinar quais eram os principais
 Com esses dados em mãos, concebida a idéia de um sistema que englobasse toda a parte de cadastro, 
 registros e divulgação das academias, surgindo assim o MyRepsApp.
 
-
 ## Objetivo
+Criar um sistema responsivo e de fácil usabilidade, que ofereça aos alunos
+uma maneira fácil e convidativa de marcar e acompanhar seus horários.
 
 ## Contexto
 
