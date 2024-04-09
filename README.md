@@ -24,7 +24,7 @@ Sistema responsivo e de fácil usabilidade. Oferece aos alunos uma maneira fáci
 
 ## Prototipação e Telas
 
-## RDesenvolvimento
+## Desenvolvimento
 
 
 
