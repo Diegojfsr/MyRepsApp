@@ -15,6 +15,9 @@ Criar um sistema responsivo e de fácil usabilidade, que ofereça aos alunos
 uma maneira fácil e convidativa de marcar e acompanhar seus horários.
 
 ## Contexto
+Neste desafio estou trabalhando em um projeto colaborativo para cadastro e compartilhamento de dados de equipamentos de treino. 
+Nesse projeto, os alunos e podem fazer o cadastro nos equipamentos disponíveis na plataforma, incluindo informações de horários, últimos acessos e alunos que utilizam esses equipamentos.
+Estamos desenvolvendo uma aplicação em Angular, acessando um background em JAVA, para realizar a gestão de dispositivos (cadastro, consulta, atualização e remoção -CRUD) em um banco SQL.
 
 ## Requisitos Funcionais
 
