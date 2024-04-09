@@ -28,5 +28,10 @@ Sistema responsivo e de fácil usabilidade. Oferece aos alunos uma maneira fáci
 
 
 
+## Sobre
+Este repositório foi criado para fins de controle de projeto. Algumas etapas estão ocultas a fim de preservar a integridade total do projeto.
+
+
+
 
 
