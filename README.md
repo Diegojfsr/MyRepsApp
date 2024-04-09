@@ -7,7 +7,8 @@ Sistema responsivo e de fácil usabilidade. Oferece aos alunos uma maneira fáci
 ## Visão Geral
 Após um tempo trabalhando nos projetos dos clientes, consegui identificar algumas dores e necessidades
 e após conhecer as a situação atual, pude determinar quais eram os principais objetivos do projeto.
-
+Com esses dados em mãos, concebida a idéia de um sistema que englobasse toda a parte de cadastro, 
+registros e divulgação das academias, surgindo assim o MyRepsApp.
 
 
 ## Objetivo
