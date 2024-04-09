@@ -5,6 +5,9 @@
 Sistema responsivo e de fácil usabilidade. Oferece aos alunos uma maneira fácil e convidativa de marcar e acompanhar seus horários.
 
 ## Visão Geral
+Após um tempo trabalhando nos projetos dos clientes, consegui identificar algumas dores e necessidades
+e após conhecer as a situação atual, pude determinar quais eram os principais objetivos do projeto.
+
 
 
 ## Objetivo
