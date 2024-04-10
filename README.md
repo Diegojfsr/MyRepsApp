@@ -37,6 +37,12 @@ de trabalho lógicos para as funcionalidades de gestão de dispositivos.
 
 ## Especificações e Requisitos
 
+1. Conhecimento sólido e boas práticas de desenvolvimento.
+2. Experiência em desenvolvimento de plataformas e infraestruturas de software.
+3. Experiência em metodologias ágeis.
+
+
+
 ## Descrição das Atividades
 
 ## Requisitos de Design
