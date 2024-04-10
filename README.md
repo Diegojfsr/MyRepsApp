@@ -27,6 +27,9 @@ Estamos desenvolvendo uma aplicação em Angular, acessando um background em JAV
   5. A aplicação deve ser responsiva e funcionar adequadamente em diferentes dispositivos e tamanhos de tela, garantindo uma experiência consistente para os usuários em desktops, tablets e smartphones.
 
 ## Requisitos de Design
+1.A interface do usuário deve ser intuitiva e fácil de usar, com navegação clara e fluxos
+de trabalho lógicos para as funcionalidades de gestão de dispositivos. 2.Design limpo e moderno, com uso adequado de cores, tipografia e espaçamento para criar uma experiência visualmente atraente e profissional. 3.Fornecer feedback visual claro para as ações dos usuários, como confirmação de sucesso após o cadastro ou atualizações, ou mensagens de erro. 4.Utilizar adequadamente os princípios de gerenciamento de estado no Angular para manter a consistência e a integridade dos dados da aplicação. 5.Implementar medidas de segurança adequadas para proteger os dados da aplicação.
+
 
 ## Especificações e Requisitos
 
