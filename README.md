@@ -20,6 +20,8 @@ Nesse projeto, os alunos e podem fazer o cadastro nos equipamentos disponíveis 
 Estamos desenvolvendo uma aplicação em Angular, acessando um background em JAVA, para realizar a gestão de dispositivos (cadastro, consulta, atualização e remoção - CRUD) em um banco SQL.
 
 ## Requisitos Funcionais
+1.O sistema deve ser capaz de cadastrar novos alunos e equipamentos. 2.Deve ser possível visualizar uma lista de todos os equipamentos cadastrados na plataforma, incluindo a descrição e o fabricante do dispositivo. 3.Os usuários devem poder editar as informações dos equipamentos cadastrados. 4.Deve ser possível aos usuários excluir dispositivos da plataforma. 5.A aplicação deve ser responsiva e funcionar adequadamente em diferentes
+dispositivos e tamanhos de tela, garantindo uma experiência consistente para os usuários em desktops, tablets e smartphones.
 
 ## Requisitos de Design
 
