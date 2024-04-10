@@ -40,7 +40,10 @@ de trabalho lógicos para as funcionalidades de gestão de dispositivos.
 1. Conhecimento sólido e boas práticas de desenvolvimento.
 2. Experiência em desenvolvimento de plataformas e infraestruturas de software.
 3. Experiência em metodologias ágeis.
-
+4. Experiência em linguagens de programação, como Java, JavaScript (Node.js) e TypeScript.
+5. Conhecimento em técnicas de teste, incluindo testes unitários, de segurança, de performance, funcionais e não funcionais.
+6. Conhecimento em bancos de dados, como MySQL e PostgreSQL.
+7. Conhecimento em ferramentas de CI/CD, como Jenkins, Docker, Terraform e Git.
 
 
 ## Descrição das Atividades
