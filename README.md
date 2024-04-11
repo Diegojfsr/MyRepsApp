@@ -49,7 +49,7 @@ de trabalho lógicos para as funcionalidades de gestão de dispositivos.
 ## Descrição das Atividades
 
 1. Trabalhar em parceria com o time de produto e outros times para entender as necessidades e requisitos do sistema.
-
+2. Desenvolver e implementar soluções de software escaláveis, eficientes, seguras e automatizadas para melhorar a produtividade e a qualidade.
 
 ## Requisitos de Design
 
