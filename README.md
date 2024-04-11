@@ -48,6 +48,9 @@ de trabalho lógicos para as funcionalidades de gestão de dispositivos.
 
 ## Descrição das Atividades
 
+1. Trabalhar em parceria com o time de produto e outros times para entender as necessidades e requisitos do sistema.
+
+
 ## Requisitos de Design
 
 ## Prototipação e Telas
