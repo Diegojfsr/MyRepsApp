@@ -50,6 +50,7 @@ de trabalho lógicos para as funcionalidades de gestão de dispositivos.
 
 1. Trabalhar em parceria com o time de produto e outros times para entender as necessidades e requisitos do sistema.
 2. Desenvolver e implementar soluções de software escaláveis, eficientes, seguras e automatizadas para melhorar a produtividade e a qualidade.
+3. Ter uma visão sistêmica do ecossistema, identificando pontos que podem ser evoluídos, e manter uma visão clara do custo/benefício da solução.
 
 ## Requisitos de Design
 
