@@ -19,6 +19,17 @@ Neste desafio estou trabalhando em um projeto colaborativo para cadastro e compa
 Nesse projeto, os alunos e podem fazer o cadastro nos equipamentos disponíveis na plataforma, incluindo informações de horários, últimos acessos e alunos que utilizam esses equipamentos.
 Estamos desenvolvendo uma aplicação em Angular, acessando um background em JAVA, para realizar a gestão de dispositivos (cadastro, consulta, atualização e remoção - CRUD) em um banco SQL.
 
+## [Especificações e Requisitos](https:)
+
+1. Conhecimento sólido e boas práticas de desenvolvimento.
+2. Experiência em desenvolvimento de plataformas e infraestruturas de software.
+3. Experiência em metodologias ágeis.
+4. Experiência em linguagens de programação, como Java, JavaScript (Node.js) e TypeScript.
+5. Conhecimento em técnicas de teste, incluindo testes unitários, de segurança, de performance, funcionais e não funcionais.
+6. Conhecimento em bancos de dados, como MySQL e PostgreSQL.
+7. Conhecimento em ferramentas de CI/CD, como Jenkins, Docker, Terraform e Git.
+
+
 ## [Requisitos Funcionais](https:)
 1. O sistema deve ser capaz de cadastrar novos alunos e equipamentos. 
 2. Deve ser possível visualizar uma lista de todos os equipamentos cadastrados na plataforma, incluindo a descrição e o fabricante do dispositivo. 
@@ -35,15 +46,6 @@ de trabalho lógicos para as funcionalidades de gestão de dispositivos.
 5. Implementar medidas de segurança adequadas para proteger os dados da aplicação.
 
 
-## [Especificações e Requisitos](https:)
-
-1. Conhecimento sólido e boas práticas de desenvolvimento.
-2. Experiência em desenvolvimento de plataformas e infraestruturas de software.
-3. Experiência em metodologias ágeis.
-4. Experiência em linguagens de programação, como Java, JavaScript (Node.js) e TypeScript.
-5. Conhecimento em técnicas de teste, incluindo testes unitários, de segurança, de performance, funcionais e não funcionais.
-6. Conhecimento em bancos de dados, como MySQL e PostgreSQL.
-7. Conhecimento em ferramentas de CI/CD, como Jenkins, Docker, Terraform e Git.
 
 
 ## [Descrição das Atividades](https:)
