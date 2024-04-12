@@ -36,13 +36,6 @@ Estamos desenvolvendo uma aplicação em Angular, acessando um background em JAV
 3. Ter uma visão sistêmica do ecossistema, identificando pontos que podem ser evoluídos, e manter uma visão clara do custo/benefício da solução.
 
 
-## [Requisitos Funcionais](https:)
-1. O sistema deve ser capaz de cadastrar novos alunos e equipamentos. 
-2. Deve ser possível visualizar uma lista de todos os equipamentos cadastrados na plataforma, incluindo a descrição e o fabricante do dispositivo. 
-3. Os usuários devem poder editar as informações dos equipamentos cadastrados. 
-4. Deve ser possível aos usuários excluir dispositivos da plataforma. 
-5. A aplicação deve ser responsiva e funcionar adequadamente em diferentes dispositivos e tamanhos de tela, garantindo uma experiência consistente para os usuários em desktops, tablets e smartphones.
-
 ## [Requisitos de Design](https:)
 1. A interface do usuário deve ser intuitiva e fácil de usar, com navegação clara e fluxos
 de trabalho lógicos para as funcionalidades de gestão de dispositivos.
@@ -50,6 +43,16 @@ de trabalho lógicos para as funcionalidades de gestão de dispositivos.
 3. Fornecer feedback visual claro para as ações dos usuários, como confirmação de sucesso após o cadastro ou atualizações, ou mensagens de erro.
 4. Utilizar adequadamente os princípios de gerenciamento de estado no Angular para manter a consistência e a integridade dos dados da aplicação.
 5. Implementar medidas de segurança adequadas para proteger os dados da aplicação.
+
+
+## [Requisitos Funcionais](https:)
+1. O sistema deve ser capaz de cadastrar novos alunos e equipamentos. 
+2. Deve ser possível visualizar uma lista de todos os equipamentos cadastrados na plataforma, incluindo a descrição e o fabricante do dispositivo. 
+3. Os usuários devem poder editar as informações dos equipamentos cadastrados. 
+4. Deve ser possível aos usuários excluir dispositivos da plataforma. 
+5. A aplicação deve ser responsiva e funcionar adequadamente em diferentes dispositivos e tamanhos de tela, garantindo uma experiência consistente para os usuários em desktops, tablets e smartphones.
+
+
 
 
 
